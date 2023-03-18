@@ -1,4 +1,4 @@
-# people-counter-app
+# people-counter-app https://altschool-people-counter-app.vercel.app/
 
 ## Project setup
 ```
